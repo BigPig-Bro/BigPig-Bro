@@ -1,7 +1,7 @@
 # It's BigPig-Bro 
 
 + 一个游走于Altera、Xilinx与国产FPGA之间花式点灯的人
-+ 硬件方面也有DIY的FPGA开发板及模块，欢迎交流（嘉立创主页同名：[大猪蹄子](https://oshwhub.com/hdu_cy)）
++ 硬件方面也有DIY的FPGA开发板及模块，欢迎交流（嘉立创、闲鱼、淘宝主页同名：[大猪蹄子](https://oshwhub.com/hdu_cy)）适用于黑金正点原子等常用开发板~
 
 <table>
 <tr>
