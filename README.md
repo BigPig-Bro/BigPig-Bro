@@ -1,6 +1,6 @@
 # It's BigPig-Bro 
 
-+ 一个游走于Altera、Xilinx与国产FPGA之间花式点灯的人（博客：[大猪蹄子]([bigpig-bro.github.io](https://bigpig-bro.github.io/)))
++ 一个游走于Altera、Xilinx与国产FPGA之间花式点灯的人（博客：[大猪蹄子](https://bigpig-bro.github.io/) )
 + 硬件方面也有DIY的FPGA开发板及模块，欢迎交流（闲鱼主页同名：[大猪蹄子](https://oshwhub.com/hdu_cy)）适用于黑金正点原子等常用开发板~
 
 <table>
